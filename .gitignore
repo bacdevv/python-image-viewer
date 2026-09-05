@@ -1,0 +1,16 @@
+# Bỏ qua thư mục chứa ảnh kết quả test của tính năng Crop
+data/output/
+
+# Bỏ qua các file tạm và cache của Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Bỏ qua môi trường ảo (nếu nhóm có sử dụng)
+venv/
+env/
+.env
+
+# Bỏ qua các file cấu hình riêng của VS Code
+.vscode/
